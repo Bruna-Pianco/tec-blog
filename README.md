@@ -8,3 +8,5 @@ VSCode
 
 desenvolvido com HTML/CSS
 
+Link: https://bruna-pianco.github.io/tec-blog/
+
